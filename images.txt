@@ -1,6 +1,8 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+gdy666/lucky:2.9.0
+haroldli/xiaoya-tvbox:native
+ghcr.io/aurora-develop/aurora:latest
+whyour/qinglong:latest
+yidadaa/chatgpt-next-web:latest
+lobehub/lobe-chat:latest
+frooodle/s-pdf:latest
+hlohaus789/g4f:latest
