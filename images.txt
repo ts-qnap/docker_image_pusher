@@ -6,3 +6,4 @@ yidadaa/chatgpt-next-web:latest
 lobehub/lobe-chat:latest
 frooodle/s-pdf:latest
 hlohaus789/g4f:latest
+emqx/emqx:latest
