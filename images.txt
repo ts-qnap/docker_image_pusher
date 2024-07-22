@@ -1,2 +1,2 @@
 ghcr.io/aurora-develop/aurora:latest
-chatgpt-next-web:v2.13.1
+chatgpt-next-web:latest
